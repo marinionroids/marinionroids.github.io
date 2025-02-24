@@ -404,6 +404,10 @@ article .icon {
   overflow: hidden;
 }
 
+.container-2 {
+  margin-top: 3%;
+}
+
 .project-img {
   border-radius: 1rem;
   width: 100%;
