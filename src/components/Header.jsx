@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header>
       <img
-        src="src/assets/profile.png"
+        src="/assets/profile.png"
         alt="Profile Picture"
         className="profile-img"
       />
@@ -37,7 +37,7 @@ const Header = () => {
           />
         </a>
 
-        <a href="src/assets/cvmarin.pdf" className="social-btn" target="_blank" rel="noopener noreferrer">
+        <a href="/assets/cvmarin.pdf" className="social-btn" target="_blank" rel="noopener noreferrer">
           <img
             src="https://img.shields.io/badge/Resume-grey?style=flat-square&logo=adobeacrobatreader"
             alt="Resume"
