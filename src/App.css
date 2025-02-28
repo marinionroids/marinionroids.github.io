@@ -1,0 +1,12 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.rainbow-divider {
+  height: 4px;
+  background: linear-gradient(to right, #3498db, #e74c3c);
+  margin: 10px 0 40px;
+  border-radius: 2px;
+}
