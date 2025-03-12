@@ -1,4 +1,3 @@
-import { FaGithub } from 'react-icons/fa';
 import ProjectCard from './ProjectCard.jsx';
 import './Projects.css';
 
@@ -7,14 +6,15 @@ const Projects = () => {
     {
       id: 1,
       title: "DRAWN Lootbox Casino",
-      tags: ["Java 21", "Spring Boot", "React", "MYSQL"],
+      tags: ["Java 21", "Spring Boot", "React", "MYSQL", "Solflare Wallet", "Solana Blockchain", "JWT", "AWS"],
       description: "DRAWN is a lootbox casino that allows users to buy lootboxes with crypto and open them to win rewards. Has deposit and withdrawal functionality. Solflare wallet integration." ,
+      liveDemo: "https://drawngg.com",
       githubLink: "https://github.com/marinionroids/drawnjava"
     },
     {
       id: 2,
       title: "Cafeteria Management System",
-      tags: ["Java 21", "Spring Boot", "Spring Security", "React + Vite", "MYSQL"],
+      tags: ["Java 21", "Spring Boot", "Spring Security", "React + Vite", "MYSQL", "JWT", "AWS"],
       description: "A cafeteria management system that allows servers to manage orders and their daily earnings. Managers can oversee the daily operations of the cafeteria.",
       githubLink: "https://github.com/marinionroids/cafeteria"
     }

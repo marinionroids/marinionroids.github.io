@@ -1,5 +1,3 @@
-import { FaGithub } from "react-icons/fa";
-import { FaYoutube } from "react-icons/fa";
 import "./Header.css";
 
 const Header = () => {

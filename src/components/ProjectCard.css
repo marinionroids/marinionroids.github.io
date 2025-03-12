@@ -46,3 +46,18 @@
     font-size: 1.1rem;
   }
 
+
+  .live-demo-link {
+    color: var(--text-color);
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: 10px;
+  }
+
+  .live-demo-link:hover {
+    color: var(--accent-color);
+  }
+  
+  .github-link:hover {
+    color: var(--accent-color);
+  }
