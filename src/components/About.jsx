@@ -16,17 +16,13 @@ const About = () => {
           I developed an interest in Computer Science at the age of 16 by
           programming various Discord and Telegram bots that would come in handy
           to hundreds of people. My focus quickly shifted towards learning Java
-          and Python. After a few months I completed the <a href="https://java-programming.mooc.fi/" className="textLink">Java programming course </a>
-          from the University of Helsinki and a lot of Udemy courses focused on
-          backend RESTful APIs and Databases.
+          and Python.
         </p>
         <br /><br />
         <p>
           Throughout the journey as a developer, I have been working on a wide
           range of projects. I have build an online lootbox casino that has
-          integrated crypto wallet user authentication. Additionally, I have
-          been working and completing tasks as a freelancer on the side using
-          Java, SpringBoot and React.
+          integrated crypto wallet user authentication.
         </p>
         <br /><br />
         <p>
